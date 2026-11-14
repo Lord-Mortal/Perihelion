@@ -1,4 +1,4 @@
-# ☀️ PERIHELION
+# 🪐 PERIHELION 🛰️
 
 ### 🚀 Design. Analyse. Launch. Explore.
 
@@ -272,7 +272,7 @@ During simulation, use the available controls to pause, resume, restart, skip, o
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PERIHELION.git
+git clone https://github.com/Lord-Mortal/PERIHELION.git
 ```
 
 ### 2. Navigate to the project folder
@@ -334,23 +334,4 @@ Potential directions for expanding the project:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, ideas, and suggestions are welcome!
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Submit a pull request.
-
----
-
-## 📜 License
-
-Add your preferred open-source license here.
-
----
-
-### ☀️ Explore Beyond the Horizon
-
-**PERIHELION — Your mission. Your spacecraft. Your engineering decisions.** 🚀
+##
