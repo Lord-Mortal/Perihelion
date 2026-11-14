@@ -1,6 +1,6 @@
 # 🪐 PERIHELION 🛰️
 
-### 🚀 Design. Analyse. Launch. Explore.
+### 🚀 Design. Analyse. Launch. Explore..
 
 **PERIHELION** is a spacecraft design and space exploration simulation built with Python and Pygame. Design spacecraft, balance engineering constraints, select scientific instruments, and attempt missions across the Solar System.
 
