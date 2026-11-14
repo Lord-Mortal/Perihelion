@@ -272,13 +272,13 @@ During simulation, use the available controls to pause, resume, restart, skip, o
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lord-Mortal/PERIHELION.git
+git clone https://github.com/Lord-Mortal/Perihelion.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd PERIHELION
+cd Perihelion
 ```
 
 ### 3. Install the dependency
